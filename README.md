@@ -45,7 +45,7 @@ Install kyverno in HA mode
  helm install kyverno kyverno/kyverno -n kyverno --create-namespace --set replicaCount=3
 ```
 
-(or)
+or
 
 Install kyverno in Standalone mode
 
