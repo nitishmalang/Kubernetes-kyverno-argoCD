@@ -4,7 +4,7 @@ In this project we will learn how to enforce policies, governence and compliance
 
 To explain the project with examples, using this configuration you can
 
-1. Generate -> For example, Create a default network policy whenever a namespace is created.
+1. Generate -> For example, Create a default network policy whenever a namespace is created
 2. Validate -> For example, Block users from using `latest` tag in the deployment or pod resources.
 3. Mutate -> For example, Attach pod security policy for a pod that is created without any pod security policy configuration.
 4. Verify Images -> For example, Verify if the Images used in the pod resources are properly signed and verified images.
