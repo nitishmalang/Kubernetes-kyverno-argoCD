@@ -2,7 +2,7 @@
 
 In this project we will learn how to enforce policies, governence and compliance on your kubernetes cluster. Whether your kubernetes cluster is on AWS, Azure, GCP or on-premises, this project will work without any additional changes.
 
-To explain the project with examples, using this configuration you 
+To explain the project with examples, using this configuration you can
 
 1. Generate -> For example, Create a default network policy whenever a namespace is created.
 2. Validate -> For example, Block users from using `latest` tag in the deployment or pod resources.
